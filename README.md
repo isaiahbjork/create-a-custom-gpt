@@ -2,7 +2,7 @@
 
 # Video Tutorial: [Click Here](https://youtu.be/OSvnGAYTAVE)
 
-Welcome to the README file for the "Create A Custom GPT in Under 10 Minutes - Build Your Own GPT" tutorial. This guide is designed to accompany the YouTube tutorial video where I demonstrate how to create a custom ChatGPT 4 model using OpenAI's technology. The focus is on building a JSON data analyst GPT and integrating it with various APIs for enhanced functionality.
+Welcome to the README file for the "Create A Custom GPT in Under 10 Minutes - Build Your Own GPT" tutorial. This guide is designed to accompany the YouTube tutorial video where I demonstrate how to create a custom GPT using OpenAI's technology. The focus is on building a JSON data analyst GPT and integrating it with various APIs for enhanced functionality.
 
 ## Overview
 
